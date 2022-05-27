@@ -1,3 +1,10 @@
+# CATATAN ( NOTE )
+Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
+
+Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+
+Best Regards. Hisoka
+
 # Hisoka-Morou
 Script WhatsApp Bot Multi Device
 
@@ -76,11 +83,15 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
+* [`Faiz`](https://github.com/FaizBastomi)
+* [`Gimenz`](https://github.com/Gimenz)
+* [`rayy`](https://github.com/rayyreall)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
-* [`Hisoka775`](https://github.com/Hisoka775)
+* [`bintang`](https://github.com/Bintangp02)
+
+```Thanks to all who have participated in the development of this script```
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
