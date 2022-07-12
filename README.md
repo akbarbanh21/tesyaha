@@ -24,6 +24,13 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 * WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 * WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
 
+## HEROKU BUILDPACK
+```bash
+heroku/nodejs
+heroku/python
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
@@ -66,12 +73,12 @@ pkg install yarn
 yarn
 ```
 
-## Installing
+## INSTALLING
 ```bash
 $ node .
 ```
 
-## ❗ Warning
+## ❗ WARNING
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
@@ -79,7 +86,7 @@ Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdn
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
-## Thanks To
+## THANKS TO
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
@@ -87,6 +94,8 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`Gimenz`](https://github.com/Gimenz)
 * [`rayy`](https://github.com/rayyreall)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
+* [`Pa7rick`](https://github.com/pa7rickr)
+* [`RidhoUhuy`](https://github.com/Atak676) 
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
